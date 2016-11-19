@@ -12,6 +12,7 @@ Extensible popup menu component for React Native for both Android and iOS.
 * Can work as controlled as well as uncontrolled component
 * Different lifecycle hooks
 
+To see more scroll down to the demo or check our [examples](doc/examples.md)
 ## Installation
 
 ```
