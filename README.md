@@ -2,7 +2,9 @@
 
 Extensible popup menu component for React Native for both Android and iOS.
 
-Features:
+<img src="doc/img/context-menu.png" width="300">
+
+## Features
 * Simple to use popup/context menu
 * Multiple modes: animated, not animated or slide in from bottom
 * Easy styling
@@ -10,7 +12,6 @@ Features:
 * Can work as controlled as well as uncontrolled component
 * Different lifecycle hooks
 
-![Popup menu](doc/img/context-menu.png)
 ## Installation
 
 ```
